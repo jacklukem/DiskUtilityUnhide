@@ -11,4 +11,6 @@ based on ASentientBot launcher: https://forums.macrumors.com/threads/macos-10-15
 
 modified to work on Mojave and HighSierra
 
-it should work till Monterey and maybe later.
+it works till Monterey and maybe later.
+
+![DiskUtilityUnhide](https://user-images.githubusercontent.com/63143548/124458040-d09c5b80-dd8c-11eb-895e-bd66293e453b.png)
