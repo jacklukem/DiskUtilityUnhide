@@ -1,7 +1,7 @@
 # DiskUtilityUnhide
 to show all hidden EFIs and any APFS subvolumes
 
-This tool adds an useful feature of debug menu that from HighSierra was removed by apple, it allows to easily handle and manage EFI but mainly hidden APFS volumes through diskutility tree structure, avoiding the zsh or bash diskutil to identity the correct hidden APFS volume when there are multiple APFS macOS installations.
+This tool adds an useful feature of debug menu that from HighSierra was removed by apple, it allows to easily handle and manage EFI but mainly hidden APFS volumes through diskutility tree structure, avoiding the zsh or bash diskutil to identify the correct hidden APFS volume when there are multiple APFS macOS installations.
 
 When using this tool from 10.15.4 + requires to set in nvram boot-args "amfi_get_out_of_my_way=1" (it's also advisable to set "csrutil disable")
 
